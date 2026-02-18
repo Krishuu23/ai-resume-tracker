@@ -1,0 +1,11 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+
+# uploads
+backend/src/uploads/
+
+# logs
+npm-debug.log*
